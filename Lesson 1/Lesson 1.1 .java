@@ -6,7 +6,7 @@ import java.applet.*;
 
 //creating applet and setting background color to it
 
-public class app1 extends Applet
+public class app extends Applet
 {
   public void init()
   {
